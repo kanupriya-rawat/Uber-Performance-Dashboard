@@ -16,10 +16,10 @@ The dashboard helps in:
 - Identifying opportunities to improve operational efficiency and revenue growth
 - Supporting data-driven decision-making across pricing, fleet and driver management
 
-  # 🛠 Tools Used
-  Power BI Desktop · DAX · Data Modeling · Data Visualization
+# 🛠 Tools Used
+Power BI Desktop · DAX · Data Modeling · Data Visualization
 
-  # 💡 Key Insights
+# 💡 Key Insights
 - Demand peaks in **January, March, and July**, while February and September consistently show lower bookings.
 - **6 PM** is the peak booking hour across all days of the week.
 - Weekdays generate higher booking volume, while weekends generate higher revenue per ride.
@@ -28,7 +28,7 @@ The dashboard helps in:
 - Driver cancellations are more than double customer cancellations and remained **consistently high** throughout the year.
 - The platform experienced an estimated **₹29.1M annual revenue loss** from cancellations and incomplete rides.
 
-  # ✅ Recommendations
+# ✅ Recommendations
 - Introduce surge pricing and driver incentives during peak demand hours (5–7 PM).
 - Run targeted promotions during low-demand months such as February and September.
 - Expand focus on affordable vehicle categories like Auto, Bike, and Go Mini.
@@ -36,9 +36,9 @@ The dashboard helps in:
 - Promote digital payments through cashback offers and loyalty rewards.
 - Use weekend-focused pricing strategies to maximize higher per-ride revenue.
 
-  # 📷 Dashboard Preview
+# 📷 Dashboard Preview
 
-  # 👤 Author
+# 👤 Author
   [Kanupriya Rawat]
   www.linkedin.com/in/kanupriyarawat
   https://github.com/kanupriya-rawat
