@@ -46,9 +46,16 @@ Power BI Desktop · DAX · Data Modeling · Data Visualization
 ## Dashboard Demo
 ![Dashboard Demo](Screenshots/Uber_Dashboard_Demo.gif)
 
+# 🛠️ How to Use
+- Clone this repository
+- Open Dashboard/Uber_Performance_Analysis_Dashboard.pbit in Power BI Desktop
+- The dashboard is pre-loaded with the dataset — no additional setup required
+- Use the vehicle filter icons at the top to slice data by vehicle type
+- Navigate between pages using the left sidebar: Overview → Vehicle Analysis → Revenue & Demand → Cancellation Analysis
+
 # 👤 Author
 - **Kanupriya Rawat**  
-- 📧 Email: kanupriyarawat04@gmail.com
+- 📧 kanupriyarawat04@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kanupriyarawat)
-- 🐙 [GitHub](https://github.com/kanupriya-rawat)  
+- 💻 [GitHub](https://github.com/kanupriya-rawat)  
 
