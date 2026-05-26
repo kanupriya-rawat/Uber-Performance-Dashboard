@@ -39,9 +39,8 @@ Power BI Desktop · DAX · Data Modeling · Data Visualization
 # 📷 Dashboard Preview
 
 # 👤 Author
-  [Kanupriya Rawat]
-  www.linkedin.com/in/kanupriyarawat
-  https://github.com/kanupriya-rawat
-
-
+- **Kanupriya Rawat**  
+- 📧 Email: kanupriyarawat04@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kanupriyarawat)
+- 🐙 [GitHub](https://github.com/kanupriya-rawat)  
 
