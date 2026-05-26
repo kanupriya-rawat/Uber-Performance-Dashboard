@@ -37,6 +37,11 @@ Power BI Desktop · DAX · Data Modeling · Data Visualization
 - Use weekend-focused pricing strategies to maximize higher per-ride revenue.
 
 # 📷 Dashboard Preview
+## Dashboard Screenshots
+![Overview](Screenshots/Overview.png)
+![Vehicle Analysis](Screenshots/Vehicle_Analysis.png)
+![Revenue & Demand](Screenshots/Revenue_Demand.png)
+![Cancellation Analysis](Screenshots/Cancellation_Analysis.png)
 
 # 👤 Author
 - **Kanupriya Rawat**  
