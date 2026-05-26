@@ -43,6 +43,9 @@ Power BI Desktop · DAX · Data Modeling · Data Visualization
 ![Revenue & Demand](Screenshots/Revenue_Demand.png)
 ![Cancellation Analysis](Screenshots/Cancellation_Analysis.png)
 
+## Dashboard Demo
+![Dashboard Demo](Screenshots/Uber_Dashboard_Demo.gif)
+
 # 👤 Author
 - **Kanupriya Rawat**  
 - 📧 Email: kanupriyarawat04@gmail.com
