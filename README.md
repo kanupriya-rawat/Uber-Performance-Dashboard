@@ -19,11 +19,22 @@ The dashboard helps in:
 # 🛠 Tools Used
 Power BI Desktop · DAX · Data Modeling · Data Visualization
 
-# 💡 Key Insights
+# 🔢 Key Metrics (KPIs)
+- Total Bookings : 149K
+- Completed Bookings : 92.6K (62.2%)
+- Lost Bookings : 56.8K
+- Total Revenue : ₹47.3M
+- Average Revenue per Ride : ₹510.6
+- Distance Travelled : 2.4M km
+- Peak Hour : 6PM
+- Estimated Annual Revenue Loss : ₹29.1M
+
+  # 💡 Key Insights
 - Demand peaks in **January, March, and July**, while February and September consistently show lower bookings.
 - **6 PM** is the peak booking hour across all days of the week.
 - Weekdays generate higher booking volume, while weekends generate higher revenue per ride.
 - **Auto, Bike, and Go Mini** contribute **67%** of total revenue, indicating a price-sensitive customer base.
+- Average revenue per ride is nearly identical across all vehicles **(₹505–₹512)** — growth is driven by volume, not pricing
 - Revenue growth is driven by **booking volume** rather than pricing differences.
 - Driver cancellations are more than double customer cancellations and remained **consistently high** throughout the year.
 - The platform experienced an estimated **₹29.1M annual revenue loss** from cancellations and incomplete rides.
